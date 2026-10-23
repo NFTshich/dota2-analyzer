@@ -1,5 +1,10 @@
 # Dota2 Analyzer
 
+![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
+![ML: scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![UI: Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Tests: pytest](https://img.shields.io/badge/tests-pytest-0A9EDC?logo=pytest&logoColor=white)
+
 Аналитический инструмент для **Dota 2**: собирает реальные матчи про-сцены с открытого
 Cito API, считает метрики, строит ML-модель для предсказания победителя и показывает
 результат в веб-интерфейсе Streamlit.
